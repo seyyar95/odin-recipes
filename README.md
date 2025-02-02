@@ -1,1 +1,1 @@
-# odin-recipes
+# A simple HTML project for the first phase of The Odin Project.
